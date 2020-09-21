@@ -5,7 +5,6 @@ import java.util.Random;
 public class Test {
     private int id;
     private String title;
-
     public static void main(String[] args) {
         Random random = new Random();
         for (int i = 0; i <10 ; i++) {
